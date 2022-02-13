@@ -1,0 +1,24 @@
+g:help
+$nomention
+
+$title[green6s help]
+
+$description[g:info
+
+g:cat (message)
+
+g:poll (message)
+
+g:flipcoin
+
+g:stats
+
+g:prefix
+
+g:emojigame
+
+g:av (@mention)]
+
+$footer[]
+
+$color[09f1ff]
