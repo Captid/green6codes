@@ -1,0 +1,14 @@
+g:stats 
+$nomention
+
+$title[your member is $membersCount]
+
+$description[your channels is $channelCount]
+
+$footer[]
+
+$color[b26e31]
+
+$onlyAdmin[❌you don't have any permissions to stats❌]
+
+$addReactions[👍]
